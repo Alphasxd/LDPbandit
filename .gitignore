@@ -1,2 +1,5 @@
-
+*.npy
 .DS_Store
+*env
+*.base
+__pycache__
